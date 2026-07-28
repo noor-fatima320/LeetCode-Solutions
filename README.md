@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
