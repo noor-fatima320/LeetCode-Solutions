@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
