@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Trie
 |  |
