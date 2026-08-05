@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Trie
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String Matching
