@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
