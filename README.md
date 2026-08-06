@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
