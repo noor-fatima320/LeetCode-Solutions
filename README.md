@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
 |  |
 | ------- |
