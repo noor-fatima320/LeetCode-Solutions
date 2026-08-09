@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Counting Sort
 |  |
 | ------- |
