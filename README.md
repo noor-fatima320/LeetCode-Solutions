@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 ## Stack
 |  |
 | ------- |
