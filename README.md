@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
