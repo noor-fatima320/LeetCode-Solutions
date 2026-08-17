@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -544,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
