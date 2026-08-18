@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0133-clone-graph](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0133-clone-graph) |
 ## Minimax
 |  |
 | ------- |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0133-clone-graph](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0133-clone-graph) |
 ## Nim Game
 |  |
 | ------- |
@@ -588,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
