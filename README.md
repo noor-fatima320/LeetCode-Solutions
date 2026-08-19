@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -622,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0139-word-break) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
