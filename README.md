@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -647,4 +649,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
