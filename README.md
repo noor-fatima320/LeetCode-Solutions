@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1927-sum-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
