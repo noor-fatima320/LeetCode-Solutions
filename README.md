@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting Sort
 |  |
