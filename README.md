@@ -766,4 +766,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
