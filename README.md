@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [1927-sum-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
