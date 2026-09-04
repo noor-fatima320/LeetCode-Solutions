@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1563-stone-game-v) |
