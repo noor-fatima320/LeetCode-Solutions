@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [1927-sum-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 ## Stack
 |  |
 | ------- |
