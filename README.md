@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
