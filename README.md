@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
