@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Trie
