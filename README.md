@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 ## Euclidean Algorithm
 |  |
 | ------- |
