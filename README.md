@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
