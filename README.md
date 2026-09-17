@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0273-integer-to-english-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0273-integer-to-english-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0940-distinct-subsequences-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
