@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -973,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -1015,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
