@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
@@ -1143,4 +1147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
