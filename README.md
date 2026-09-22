@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
