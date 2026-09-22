@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0284-peeking-iterator](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 ## Database
 |  |
 | ------- |
