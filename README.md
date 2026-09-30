@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
