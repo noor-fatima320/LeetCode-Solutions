@@ -856,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
 |  |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Nim Game
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1159,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
