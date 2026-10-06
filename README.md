@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -799,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1010,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
@@ -1018,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Breadth-First Search
 |  |
@@ -1218,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1292,4 +1299,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
