@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0324-wiggle-sort-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
+| [0324-wiggle-sort-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0324-wiggle-sort-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0324-wiggle-sort-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1207,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0324-wiggle-sort-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
