@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0334-increasing-triplet-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -1302,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Sqrt Decomposition
 |  |
 | ------- |
