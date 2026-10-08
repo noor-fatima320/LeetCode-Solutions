@@ -1,92 +1,70 @@
 class Solution {
 public:
-vector<string> result;
-unordered_set<string> visited;
-
-
-bool isValid(string s) {
-    int balance = 0;
-
-    for (char c : s) {
-        if (c == '(') {
-            balance++;
-        } else if (c == ')') {
-            balance--;
-
-            if (balance < 0) {
-                return false;
+    vector<string> removeInvalidParentheses(string s) {
+        vector<string> ans;
+        
+        int leftRemove = 0;
+        int rightRemove = 0;
+        
+        for (char c : s) {
+            if (c == '(') {
+                leftRemove++;
+            }
+            else if (c == ')') {
+                if (leftRemove > 0)
+                    leftRemove--;
+                else
+                    rightRemove++;
             }
         }
+        
+        function<void(int, int, int, string)> dfs =
+            [&](int pos, int left, int right, string current) {
+                
+                if (pos == s.size()) {
+                    if (left == 0 && right == 0) {
+                        ans.push_back(current);
+                    }
+                    return;
+                }
+                
+                char c = s[pos];
+                
+                if (c == '(' && left > 0) {
+                    dfs(pos + 1, left - 1, right, current);
+                }
+                
+                if (c == ')' && right > 0) {
+                    dfs(pos + 1, left, right - 1, current);
+                }
+                
+                current += c;
+                
+                if (c != '(' && c != ')') {
+                    dfs(pos + 1, left, right, current);
+                }
+                else {
+                    int balance = 0;
+                    
+                    for (char ch : current) {
+                        if (ch == '(')
+                            balance++;
+                        else if (ch == ')')
+                            balance--;
+                        
+                        if (balance < 0)
+                            return;
+                    }
+                    
+                    dfs(pos + 1, left, right, current);
+                }
+            };
+        
+        dfs(0, leftRemove, rightRemove, "");
+        
+        sort(ans.begin(), ans.end());
+        ans.erase(unique(ans.begin(), ans.end()), ans.end());
+        
+        return ans;
     }
-
-    return balance == 0;
-}
-
-void dfs(string s, int index, int removeCount, int minRemove) {
-    if (removeCount > minRemove) {
-        return;
-    }
-
-    if (visited.count(s)) {
-        return;
-    }
-
-    visited.insert(s);
-
-    if (isValid(s)) {
-        if (removeCount == minRemove) {
-            result.push_back(s);
-        }
-        return;
-    }
-
-    for (int i = index; i < s.length(); i++) {
-        if (s[i] != '(' && s[i] != ')') {
-            continue;
-        }
-
-        if (i > index && s[i] == s[i - 1]) {
-            continue;
-        }
-
-        string next = s.substr(0, i) + s.substr(i + 1);
-
-        dfs(next, i, removeCount + 1, minRemove);
-    }
-}
-
-int getMinRemove(string s) {
-    int balance = 0;
-    int remove = 0;
-
-    for (char c : s) {
-        if (c == '(') {
-            balance++;
-        } else if (c == ')') {
-            if (balance > 0) {
-                balance--;
-            } else {
-                remove++;
-            }
-        }
-    }
-
-    return remove + balance;
-}
-
-
-public:
-vector<string> removeInvalidParentheses(string s) {
-result.clear();
-visited.clear();
-
-
-    int minRemove = getMinRemove(s);
-
-    dfs(s, 0, 0, minRemove);
-
-    return result;
-}
-
-
 };
