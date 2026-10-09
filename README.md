@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -1220,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 ## Z Algorithm
 |  |
 | ------- |
