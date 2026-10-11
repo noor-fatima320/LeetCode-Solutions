@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -862,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
