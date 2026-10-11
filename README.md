@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
