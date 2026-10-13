@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
