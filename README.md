@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0372-super-pow) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1449,4 +1451,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
