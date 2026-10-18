@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1290,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
@@ -1415,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 ## Queue
 |  |
 | ------- |
