@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -1543,9 +1545,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
