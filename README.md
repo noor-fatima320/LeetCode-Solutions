@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1555,6 +1557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
@@ -1563,4 +1566,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
