@@ -809,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0393-utf-8-validation) |
+| [0401-binary-watch](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
