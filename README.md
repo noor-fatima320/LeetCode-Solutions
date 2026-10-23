@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
