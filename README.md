@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -1104,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
