@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0420-strong-password-checker](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0420-strong-password-checker) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0420-strong-password-checker) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0420-strong-password-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
