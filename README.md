@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
+| [0435-non-overlapping-intervals](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0420-strong-password-checker) |
+| [0435-non-overlapping-intervals](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
