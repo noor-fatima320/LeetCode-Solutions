@@ -794,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Sorting
 |  |
 | ------- |
