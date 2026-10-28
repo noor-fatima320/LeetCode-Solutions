@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -1044,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
