@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
