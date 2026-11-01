@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -1465,12 +1467,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Geometry
 |  |
 | ------- |
