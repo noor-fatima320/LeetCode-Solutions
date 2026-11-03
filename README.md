@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1786,6 +1790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
