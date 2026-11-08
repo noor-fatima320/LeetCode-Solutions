@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0479-largest-palindrome-product](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -1101,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0479-largest-palindrome-product) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
