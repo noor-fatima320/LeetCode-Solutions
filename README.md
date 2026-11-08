@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0470-implement-rand10-using-rand7](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -1152,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0483-smallest-good-base) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
