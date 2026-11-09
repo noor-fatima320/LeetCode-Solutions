@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0478-generate-random-point-in-a-circle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -1561,6 +1562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
@@ -1810,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0478-generate-random-point-in-a-circle) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
@@ -1845,6 +1848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
