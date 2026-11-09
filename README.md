@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
