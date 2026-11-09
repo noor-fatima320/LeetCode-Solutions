@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0482-license-key-formatting) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
