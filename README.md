@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -1096,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
