@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -991,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -1773,6 +1776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1873,6 +1877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Bitmask
 |  |
 | ------- |
