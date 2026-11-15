@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
