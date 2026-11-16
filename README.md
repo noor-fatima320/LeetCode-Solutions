@@ -1318,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1254-number-of-closed-islands](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1402,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0427-construct-quad-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1444,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -1458,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Segment Tree
 |  |
