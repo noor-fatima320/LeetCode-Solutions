@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0502-ipo) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1093,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0502-ipo) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
