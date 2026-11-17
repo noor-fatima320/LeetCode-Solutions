@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0836-rectangle-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
