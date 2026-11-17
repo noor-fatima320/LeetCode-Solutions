@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0835-image-overlap](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1101,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
