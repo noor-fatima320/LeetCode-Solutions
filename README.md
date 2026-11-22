@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0508-most-frequent-subtree-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1096-brace-expansion-ii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1340,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1254-number-of-closed-islands](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1426,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -1470,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -1564,6 +1568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/noor-fatima320/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Bidirectional Search
 |  |
 | ------- |
